@@ -4,3 +4,5 @@ temp_auto_push.bat
 artifacts/addresses.json
 .gitignore
 branch_structure.json
+config.bat
+node_modules
